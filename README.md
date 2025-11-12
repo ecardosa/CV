@@ -12,7 +12,6 @@ Each section — Hero, Skills, Experience, Projects, and Contact — is clearly 
 
 Figma design:  
 [View the design on Figma](https://www.figma.com/design/rK2XJcrhgUxFe3eAwd792D/Untitled?node-id=0-1&t=ZAoKK4DvR53W5sYE-1)  
-(Replace the link with the actual Figma project URL)
 
 ## Features
 
