@@ -3,6 +3,9 @@
 This project is part of the Hypermedia course and consists of designing and developing a personal Curriculum Vitae (CV) website.  
 The objective is to create a well-structured and visually coherent single-page site that presents my skills, experience, and projects in an organized and accessible way.
 
+Website:
+[Link to the website](https://ecardosa.github.io/CV/)
+
 ## Design Concept
 
 The website follows a minimalist dark theme, focused on simplicity and readability.  
